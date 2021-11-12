@@ -13,3 +13,8 @@
 - Run the app
 
     ``./gradlew bootrun``
+  
+
+- Test the App
+  
+    ``http://localhost:8081/welcome/<name>``
